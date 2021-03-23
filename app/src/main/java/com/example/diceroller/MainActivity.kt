@@ -8,7 +8,7 @@ import android.widget.TextView
 import android.widget.Toast
 import java.util.*
 
-class MainActivity : AppCompatActivity() {
+class  MainActivity : AppCompatActivity() {
     lateinit var diceImage:ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
